@@ -1,0 +1,15 @@
+language: python
+
+install: echo "installed"
+
+script: python pytest.py
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  keep-history: true
+  on:
+    branch: master
+  repo: vos0043/vos0043.github.io
+  target_branch: master
