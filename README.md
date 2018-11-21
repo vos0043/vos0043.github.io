@@ -1,6 +1,6 @@
 # Python Test
 
-This repository is meant to test and experiment with Travis functionality. This like automated testing and deployment to GitHub pages.
+This repository is meant to test and experiment with Travis functionality. Things like automated testing and deployment to GitHub pages.
 
 ## How to fill your Github Page?
 
