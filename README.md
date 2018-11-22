@@ -4,7 +4,7 @@ This repository is meant to test and experiment with Travis functionality. Thing
 
 ## How to fill your Github Page?
 
-We need to fill the page with something so why not meaningless ramblings to make it look like there's actually some content here.
+We need to fill the page with something so why not meaningless ramblings to make it look like there's actually some content here. Actual content is overrated anyway.
 
 ```bash
 This is how you replace 'Lorum Ipsum' successfully
